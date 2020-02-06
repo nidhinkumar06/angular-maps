@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'angular-maps';
+  lat = 11.007500;
+  lng = 76.967100;
+
+  lat1 = 13.0827;
+  lng1 = 80.2707;
 }
