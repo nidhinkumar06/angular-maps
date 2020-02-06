@@ -20,7 +20,7 @@ import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
     AppRoutingModule,
     HttpClientModule,
     AgmCoreModule.forRoot({
-      apiKey: 'AIzaSyBE11XcA08Sy_NWqA4Z9Qy3BT9wWQQZLGA'
+      apiKey: 'add google api key'
     }),
     NgbModule,
   ],
