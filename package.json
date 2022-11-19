@@ -13,7 +13,7 @@
   "dependencies": {
     "@agm/core": "^1.1.0",
     "@amcharts/amcharts4": "^4.8.8",
-    "@angular-devkit/build-angular": "^0.803.24",
+    "@angular-devkit/build-angular": "^15.0.0",
     "@angular/animations": "~8.2.14",
     "@angular/common": "~8.2.14",
     "@angular/compiler": "~8.2.14",
